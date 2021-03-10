@@ -21,7 +21,7 @@ export default {
     requestExcleStream() {
       axios({
         method: 'get',
-        url: 'http://localhost:3000/excelExport',
+        url: 'http://123.57.176.198:3001/excelExport',
         responseType: 'blob'
       }).then((res) => {
         const self = this
