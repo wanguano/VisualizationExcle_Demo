@@ -4,10 +4,6 @@
 前端Vue项目，接收后端返回的Excel流，前端进行可视化展示
 ![](https://cdn.jsdelivr.net/gh/wanguano/cloudPic/img/20210301104530.gif)
 
-## Project setup
-```
-npm install
-```
 
 ### Compiles and hot-reloads for development
 ```
